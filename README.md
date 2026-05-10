@@ -55,6 +55,6 @@ Frontend runs at http://localhost:5173
 ## Tech Stack
 
 - **Backend:** FastAPI, SQLAlchemy, PostgreSQL
-- **AI:** OpenAI GPT-3.5-turbo
+- **AI:** OpenAI GPT-4.1-nano
 - **Frontend:** React, Recharts, Vite
 - **Infra:** Docker Compose, GitHub Actions CI/CD
